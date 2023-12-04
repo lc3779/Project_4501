@@ -11,3 +11,4 @@ HISTORY.txt
 
 *.csv
 *shp
+.DS_Store
